@@ -1,10 +1,16 @@
 
 import './App.css';
+import Box1 from './component/Box1';
+import Header from './component/Header';
+import Nav from './component/Nav';
+
 
 function App() {
   return (
     <div className="App">
-      TEST
+      <Nav/>
+      <Header/>
+      <Box1/>
     </div>
   );
 }
