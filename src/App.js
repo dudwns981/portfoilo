@@ -11,6 +11,12 @@ function App() {
       <Nav/>
       <Header/>
       <Box1/>
+      <Box1/>
+      <Box1/>
+      <Box1/>
+      <Box1/>
+      <Box1/>
+      
     </div>
   );
 }
